@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.nav{
+    height: 40px;
+    float: right;
+    padding: 20px 0px;
+}
+.nav ul{
+    display: inline;
+    margin: 40px;
+}
+a{
+    text-decoration: none;
+}
